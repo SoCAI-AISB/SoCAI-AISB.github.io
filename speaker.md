@@ -1,11 +1,3 @@
 # Keynote Speaker
 
-## Anthony Cohn
-
-We are very pleased to announce that [Anthony Cohn](https://engineering.leeds.ac.uk/staff/76/), Professor of Automated Reasoning at the University of Leeds, will be giving the keynote lecture for the symposium. Anthony has worked for many years in the general domain of artificial intelligence, with a particular focus on knowledge representation and reasoning. He has been behind seminal research in spatial logic and reasoning, ontology construction, and robotics; his work has led to his involvement in a diverse range of disciplines, including computer vision, engineering, and archaeology. Of particular interest to our symposium is his work in language acquisition for artificial agents and embodied representation. In recent years, in recognition of his contributions to the field, he has been the recipient of the AAAI Distinguished Service Award (2012) and the IJCAI Donald E. Walker Distinguished Service Award (2015). He is, in addition to a number of other accolades, a past Chair and current Fellow of AISB, making his involvement in the conference this year especially meaningful.
-
-### Title
-Natural Language Acquisition and Grounding for Embodied Robotic Systems
-
-### Abstract
-I will present a cognitively plausible novel framework capable of learning the grounding in visual semantics and the grammar of natural language commands given to a robot in a table top environment. The input to the system consists of video clips of a manually controlled robot arm, paired with natural language commands describing the action. No prior knowledge is assumed about the meaning of words, or the structure of the language, except that there are different classes of words (corresponding to observable actions, spatial relations, and objects and their observable properties). The learning process automatically clusters the continuous perceptual spaces into concepts corresponding to linguistic input. A novel relational graph representation is used to build connections between language and vision. As well as the grounding of language to perception, the system also induces a set of probabilistic grammar rules. The knowledge learned is used to parse new commands involving previously unseen objects.
+## TBA

@@ -1,2 +1,2 @@
 # SoCAI-AISB.github.io
-Website for the First AISB Symposium on Conversational AI
+Website for the AISB Symposium on Conversational AI
