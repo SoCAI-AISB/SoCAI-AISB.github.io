@@ -4,4 +4,4 @@ This symposium is being organised by researchers from [action.ai](https://action
 
 Our symposium is designed to reflect the prevailing spirit of our enterprise, exploring the praxis at the intersection of advanced NLP research and applied artificial intelligence.
 
-[![actionai](https://action.ai)](actionai.png)
+[![actionai](actionai.png)](https://action.ai)

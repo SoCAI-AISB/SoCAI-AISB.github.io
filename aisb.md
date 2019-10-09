@@ -4,4 +4,4 @@
 
 The annual AISB conference is a perennial highlight of the Society's calendar.  The 2020 conference, to be held at St. Mary's University in the leafy environs of Southwest London, will feature a variety of symposia addressing topics ranging from the technical to the philosophical.  We are honoured to be one among an ecumenical field of symposia selected for inclusion in the event, and we look forward to participating in what promises to be a worthwhile exchange of ideas.
 
-[![aisb](https://aisb.org.uk)](aisb.png)
+[![aisb](aisb.png)](https://aisb.org.uk)
