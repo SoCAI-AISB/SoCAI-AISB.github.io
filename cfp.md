@@ -45,7 +45,7 @@ _conference:_ 6-9 April, 2019 (exact date of our symposium TBD)
 
 Authors may submit papers of up to eight pages (not counting references).  Please submit papers through our symposium portal:
 
-[SET](SET)
+[forthcoming](hold)
 
 And keep an eye on our symposium website for any forthcoming updates:
 
@@ -55,7 +55,7 @@ All submissions will be peer-reviewed by members of our programme committee.  Au
 
 Review will be double-blind, so please avoid including any information which might identify authors in submissions.  Submissions should be made according to the AISB style guidelines.  LaTeX and Word Templates can be found here (direct link to download):
 
-[SET](SET)
+[forthcoming](hold)
 
 Symposium participants will be able to take part in a range of other symposia and workshops taking place at AISB 2020.  For more details on the conference, including information about location, accommodation, and registration, please follow this link:
 
