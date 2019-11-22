@@ -55,7 +55,7 @@ All submissions will be peer-reviewed by members of our programme committee.  Au
 
 Review will be double-blind, so please avoid including any information which might identify authors in submissions.  Submissions should be made according to the AISB style guidelines.  LaTeX and Word Templates can be found here (direct link to download):
 
-[forthcoming](hold)
+[https://easychair.org/my/conference?conf=socai1#](https://easychair.org/my/conference?conf=socai1#)
 
 Symposium participants will be able to take part in a range of other symposia and workshops taking place at AISB 2020.  For more details on the conference, including information about location, accommodation, and registration, please follow this link:
 
