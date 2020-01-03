@@ -7,7 +7,7 @@ We invite researchers and practitioners in any field to submit relevant academic
 The symposium will be held as part of the annual AISB conference, which will be taking place at St. Mary's University in London.  Please see the [official conference website](https://aisb20.wordpress.com/) for more information on location, travel, registration, and accommodation.
 
 ### Important Dates
-_submission deadline:_ 17:00 GMT, 9 January, 2020  
-_notification:_ 14 February, 2020  
+_submission deadline:_ 17:00 GMT, 28 January, 2020  
+_notification:_ 21 February, 2020  
 _camera-ready final drafts:_ 28 February, 2020  
 _conference:_ 6-9 April, 2019 (exact date of our symposium TBD)

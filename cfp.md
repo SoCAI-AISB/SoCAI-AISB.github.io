@@ -38,8 +38,8 @@ We invite submissions of papers addressing topics that are, in a broad sense, re
 Keynote Speaker: **TBA**  
 
 Important Dates:  
-_submission deadline:_ 17:00 GMT, 9 January, 2020  
-_notification:_ 14 February, 2020  
+_submission deadline:_ 17:00 GMT, 28 January, 2020  
+_notification:_ 21 February, 2020  
 _camera-ready final drafts:_ 28 February, 2020  
 _conference:_ 6-9 April, 2019 (exact date of our symposium TBD)
 
