@@ -57,9 +57,9 @@ And keep an eye on our symposium website for any forthcoming updates:
 
 All submissions will be peer-reviewed by members of our programme committee.  Authors of accepted papers will be expected to give 30 minute presentations at the symposium.  (Please note participating authors will be required to register with the conference.)  Papers will be published as part of the proceedings of AISB 2020.
 
-Review will be double-blind, so please avoid including any information which might identify authors in submissions.  Submissions should be made according to the AISB style guidelines.  LaTeX and Word Templates can be found here (direct link to download):
+Review will be double-blind, so please avoid including any information which might identify authors in submissions.  Submissions should be made according to ACL style guidelines.  LaTeX and Word Templates can be found here (direct link to download):
 
-[https://easychair.org/my/conference?conf=socai1#](https://easychair.org/my/conference?conf=socai1#)
+[http://acl2020.org/downloads/acl2020-templates.zip](http://acl2020.org/downloads/acl2020-templates.zip)
 
 Symposium participants will be able to take part in a range of other symposia and workshops taking place at AISB 2020.  For more details on the conference, including information about location, accommodation, and registration, please follow this link:
 
