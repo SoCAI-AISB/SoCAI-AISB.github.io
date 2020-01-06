@@ -1,4 +1,4 @@
-# The Society for the Study of Artitificial Intelligence and Simulated Behaviour
+# The Society for the Study of Artificial Intelligence and Simulated Behaviour
 
 [AISB](https://aisb.org.uk) is the oldest artificial intelligence society in the world.  For the past 55 years, the Society has been at the forefront of global discourse surrounding the emergence of technology that augments, imitates, and challenges human intelligence.  Based in the UK, AISB's membership encompasses researchers, practitioners, and enthusiasts from around the world, including some of the most notable figures currently working in AI and a number of related fields.
 
