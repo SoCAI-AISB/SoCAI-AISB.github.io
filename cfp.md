@@ -1,7 +1,7 @@
 # Call for Papers
 
 ### AISB Symposium on Conversational Artificial Intelligence (SoCAI)
-### Submission Deadline: 9 January, 2020
+### Submission Deadline: 28 January, 2020
 
 The idea of building machines that can communicate about the world, by listening to and responding to humans in language that is transparent and contextually attuned, is an essential goal of research and development in the area of natural language processing.  It is therefore not surprising that conversational artificial intelligence has emerged as a major field of academic research and as a fundamental objective of industrial efforts in the technological sphere.  Notwithstanding wide-ranging enthusiasm for developing these types of agents, however, robust technologies allowing information processing machines to use language as a medium remain elusive.  Familiar issues from theoretical accounts of language, such as the essential role of context in referential semantics, the _ad hoc_ nature of conceptual representations, and the environmental grounding of semiotics, have proved hard problems for existing techniques in natural language processing.
 
@@ -35,7 +35,11 @@ We invite submissions of papers addressing topics that are, in a broad sense, re
 - industrial experiences in conversational AI
 
 
-Keynote Speaker: **TBA**  
+Keynote Speaker:
+**Prof. Alex Lascarides**
+Chair in Semantics, School of Informatics, University of Edinburgh
+
+We're very pleased to announce that our keynote speaker will be Alex Lascarides.  Prof. Lascarides holds a Chair in Semantics at the University of Edinburgh's School of Informatics, and has been involved with the University since her time as a Master's student.  Her research addresses formal semantic and pragmatic accounts of language, encompassing theoretical and computational approaches to modelling the ways that humans communicate with one another in their environments.  She has been involved in a number of past and present projects funded by research organisations across Europe, including Segmented Discourse Representation Theory, the Semantics of Gestures, and Strategic Conversation.  Her technical and philosophical perspectives on the way that both humans and non-human agents use language to accomplish goals in the world will provide a foundation for an engaging day of presentations and discussions about the current state-of-the-art and the future of conversational AI.  
 
 Important Dates:  
 _submission deadline:_ 17:00 GMT, 28 January, 2020  
@@ -45,7 +49,7 @@ _conference:_ 6-9 April, 2019 (exact date of our symposium TBD)
 
 Authors may submit papers of up to eight pages (not counting references).  Please submit papers through our symposium portal:
 
-[forthcoming](hold)
+[https://easychair.org/conferences/?conf=socai1](https://easychair.org/conferences/?conf=socai1)
 
 And keep an eye on our symposium website for any forthcoming updates:
 
