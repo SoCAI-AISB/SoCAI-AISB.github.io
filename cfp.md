@@ -1,6 +1,6 @@
 # Call for Papers
 
-### AISB Symposium on Conversational Artificial Ingelligence (SoCAI)
+### AISB Symposium on Conversational Artificial Intelligence (SoCAI)
 ### Submission Deadline: 9 January, 2020
 
 The idea of building machines that can communicate about the world, by listening to and responding to humans in language that is transparent and contextually attuned, is an essential goal of research and development in the area of natural language processing.  It is therefore not surprising that conversational artificial intelligence has emerged as a major field of academic research and as a fundamental objective of industrial efforts in the technological sphere.  Notwithstanding wide-ranging enthusiasm for developing these types of agents, however, robust technologies allowing information processing machines to use language as a medium remain elusive.  Familiar issues from theoretical accounts of language, such as the essential role of context in referential semantics, the _ad hoc_ nature of conceptual representations, and the environmental grounding of semiotics, have proved hard problems for existing techniques in natural language processing.
