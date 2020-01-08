@@ -1,5 +1,7 @@
 # Programme Committee
 
+[**Dr. Adrien Barbaresi**](http://www.bbaw.de/die-akademie/mitarbeiter/barbaresi), _Berlin-Brandenburg Academy of Sciences and Humanities_
+
 [**Prof. Pat Healey**](http://www.eecs.qmul.ac.uk/profiles/healeypat.html), _Queen Mary University of London_
 
 [**Prof. Shalom Lappin**](https://clasp.gu.se/about/people/shalom-lappin/contact), _University of Gothenburg_
