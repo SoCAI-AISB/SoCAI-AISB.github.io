@@ -59,6 +59,8 @@ _(to be expanded)_
 
 [**Prof. Pat Healey**](http://www.eecs.qmul.ac.uk/profiles/healeypat.html), _Queen Mary University of London_
 
+[**Dr. Julian Hough**](http://www.eecs.qmul.ac.uk/~jhough/), _Queen Mary University of London_
+
 [**Prof. Shalom Lappin**](https://clasp.gu.se/about/people/shalom-lappin/contact), _University of Gothenburg_
 
 [**Dr. Matt Purver**](http://www.eecs.qmul.ac.uk/~mpurver/), _Queen Mary University of London_
