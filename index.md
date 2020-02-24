@@ -10,4 +10,4 @@ The symposium will be held as part of the annual AISB conference, which will be 
 _submission deadline:_ 17:00 GMT, 28 January, 2020  
 _notification:_ 21 February, 2020  
 _camera-ready final drafts:_ 28 February, 2020  
-_conference:_ 6-9 April, 2019 (exact date of our symposium TBD)
+_symposium:_ Tuesday 7 April, 2020 (conference runs 6-8 April)
